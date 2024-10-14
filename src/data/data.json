@@ -1,0 +1,149 @@
+{
+  "Header": {
+    "title": "Vivekanand Education Society's Institute of Technology",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Vivekanand Education Society was founded in 1959 by Shri. Hashu Advani, along with ten other members, who shared the dream of providing qualitative education to the youth of our country. In the beginning, Vivekanand Education Society had a very modest launch, with just 256 students and six classrooms, in the humble barracks of Chembur Camp. But today, it proudly boast of having 3, 75, 000 sq. ft. land, housing 12 buildings and 28 Institutions, ranging from a crèche to Ph.D. Centers. It has over 2000 teaching and non-teaching staff, and more than 18,000 students who pass through its hallowed portals each year.",
+    "Why": [
+      "Innovative Teaching Practices",
+      "Knowledge-Oriented Environment",
+      "Holistic Student Growth",
+      "Value-Based Education"
+    ],
+    "Why2": [
+      "Caring and Sharing Culture",
+      "Excellence in Chosen Fields",
+      "Professional Mindset Development",
+      "Socially Conscious Technology Application"
+      
+    ]
+  },
+  "Gallery": [
+  {
+    "title": "Amphitheater",
+    "largeImage": "img/amenities/amphi2.jpeg",
+    "smallImage": "img/amenities/amphi2.jpeg"
+  },
+  {
+    "title": "Auditorium",
+    "largeImage": "img/amenities/audi2.jpeg",
+    "smallImage": "img/amenities/audi2.jpeg"
+  },
+  {
+    "title": "Canteen",
+    "largeImage": "img/amenities/canteen2.jpeg",
+    "smallImage": "img/amenities/canteen2.jpeg"
+  },
+  {
+    "title": "Hostel",
+    "largeImage": "img/amenities/hostel1.jpg",
+    "smallImage": "img/amenities/hostel1.jpg"
+  },
+  {
+    "title": "Laboratory",
+    "largeImage": "img/amenities/lab2.jpeg",
+    "smallImage": "img/amenities/lab2.jpeg"
+  },
+  {
+    "title": "Language Lab",
+    "largeImage": "img/amenities/lang-lab.png",
+    "smallImage": "img/amenities/lang-lab.png"
+  },
+  {
+    "title": "Library",
+    "largeImage": "img/amenities/library1.jpg",
+    "smallImage": "img/amenities/library1.jpg"
+  },
+  {
+    "title": "Sports",
+    "largeImage": "img/amenities/sports5.jpg",
+    "smallImage": "img/amenities/sports5.jpg"
+  },
+  {
+    "title": "Convocation",
+    "largeImage": "img/amenities/convocation.jpeg",
+    "smallImage": "img/amenities/convocation.jpeg"
+  }
+],
+  "Services": [
+    {
+      "icon": "fa fa-microchip",
+      "name": "Electronics & Computer Science",
+      "text": "Bridging electronics with computing to power innovative technologies"
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "Computer",
+      "text": "Exploring the world of computing and software development"
+    },
+    {
+      "icon": "fa fa-robot",
+      "name": "Automation & Robotics",
+      "text": "Advancing automation technologies and intelligent robotics"
+    },
+    {
+      "icon": "fa fa-broadcast-tower",
+      "name": "Electronics and Telecommunication",
+      "text": " Connecting the world through cutting-edge communication systems"
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Information Technology",
+      "text": "Managing and processing data to drive technological advancements"
+    },
+    {
+      "icon": "fa fa-brain",
+      "name": "AI and Data Science",
+      "text": "Harnessing the power of artificial intelligence and big data for smart solutions"
+    }
+  ],
+  "Contact": {
+    "address": "Hashu Advani Memorial Complex, Collector's Colony Chembur, Mumbai, Maharashtra 400074",
+    "phone": "+91-22-61532510 / 27",
+    "email": " vesit@ves.ac.in"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Amphitheater",
+      "text": "Our state-of-the-art amphitheater serves as a vibrant venue for cultural events, lectures, and performances, fostering creativity and community engagement among students."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Auditorium",
+      "text": "Equipped with advanced audio-visual technology, our auditorium hosts seminars, workshops, and guest lectures, providing an immersive learning experience for all attendees."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Sports",
+      "text": "We promote a healthy lifestyle through various sports facilities and programs, encouraging students to engage in physical activities, teamwork, and competition."
+    },
+    {
+      "icon": "fa fa-flask",
+      "title": "Laboratory",
+      "text": "Our well-equipped laboratories provide hands-on experience in various disciplines, enabling students to apply theoretical knowledge and conduct experiments safely and effectively."
+    },
+    {
+      "icon": "fa fa-book",
+      "title": "Library",
+      "text": "Our extensive library offers a vast collection of books, journals, and digital resources, creating a conducive environment for research and self-study."
+    },
+    {
+      "icon": "fa fa-bed",
+      "title": "Hostel",
+      "text": "Our comfortable and secure hostel facilities provide a home-like environment for students, fostering camaraderie and a supportive community away from home."
+    },
+    {
+      "icon": "fa fa-utensils",
+      "title": "Canteen",
+      "text": "The canteen offers a variety of healthy and delicious meal options, catering to diverse tastes and dietary requirements, creating a vibrant social hub for students."
+    },
+    {
+      "icon": "fa fa-language",
+      "title": "Language Lab",
+      "text": "Our language lab is designed to enhance students' communication skills through interactive learning and advanced language tools, preparing them for global opportunities."
+    }
+  ]
+  
+}
